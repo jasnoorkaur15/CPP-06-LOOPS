@@ -6,6 +6,7 @@ to perform repetitive tasks such as:
 - Printing fixed messages
 - Generating star patterns
 - Reversing a number
+- Generating a password verification etc.
 
 ## OBJECTIVES:
 - Understand the working of `for`, `while`, and `nested loops`.
